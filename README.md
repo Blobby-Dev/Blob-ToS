@@ -20,4 +20,6 @@ By using Blob#2143, you agree to the following terms of service. If you do not a
 4.1 We reserves the right to update and change the Terms at any time without notice.
 4.2 It is your responsibility to review the Terms periodically for changes.
 
+
+
 By using the Bot, you acknowledge and agree to these Terms and to Discord's [Terms of Service](https://discord.com/terms). If you have any questions or concerns, please contact through our [support server](https://discord.gg/RWSEj6JrjJ).
